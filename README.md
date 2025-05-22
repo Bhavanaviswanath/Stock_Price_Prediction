@@ -1,6 +1,6 @@
-# Stock_Price_Prediction
+# 📌 Stock_Price_Prediction
 
-# Project Overview
+#🚀 Project Overview
 This project aims to predict stock prices using multiple machine learning models, including:
 - K-Nearest Neighbors (KNN)
 - XGBoost (XGB)
@@ -40,7 +40,7 @@ The dataset is preprocessed, analyzed for correlations, and split into training 
 
 ### 4️: Linear Regression (LR)
 - Simple linear regression model with `fit_intercept` tuning.
-- 
+  
 ## Model Evaluation Metrics
 Each model is evaluated using:
 - **Mean Squared Error (MSE)**
@@ -62,3 +62,7 @@ Modeling Diversity: Implementing multiple models (KNN, XGBoost, Random Forest, a
 Hyperparameter Tuning: Grid search optimization to enhance model performance is a key novelty.
 
 Practical Application: The project tackles a real-world business problem of stock price prediction, making it highly relevant to the financial sector.
+
+## ✍️ Author
+
+**Natuva Bhavana:natuvabhavana@gmail.com**  
